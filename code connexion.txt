@@ -1,0 +1,9 @@
+nom accès admin : 
+toto@mail.com
+code accès admin :
+azertyuiop
+
+nom accès commande :
+seb@gmail.com
+code accès commande :
+azertyuiop
